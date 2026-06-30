@@ -17,3 +17,10 @@ Veja `ROADMAP.md`.
 - Exercícios sem IA antes da revisão
 - Todo módulo gera conhecimento reutilizável
 
+## Progresso
+
+| Módulo | Status |
+|---------|--------|
+| BJ-000 | ✅ |
+| BJ-001 | ✅ |
+| BJ-002 | ⏳ |

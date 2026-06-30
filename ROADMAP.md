@@ -3,7 +3,7 @@
 ## Status
 
 - [x] BJ-000 Fundação
-- [ ] BJ-001 Como um computador guarda informações
+- [x] BJ-001 Como um computador guarda informações
 - [ ] BJ-002 Memória
 - [ ] BJ-003 Referência vs Valor
 - [ ] BJ-004 Imutabilidade
